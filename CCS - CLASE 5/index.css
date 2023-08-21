@@ -1,9 +1,36 @@
+body {background-image: url(./Imagenes/65-650209_backgrounds-abstract-dark-blue.jpg);
+}
 h3 {color: brown;
+    font-size: 70px;
 
 }
 .titulo {
+  font-size: 30px;
     color: aqua;
 }
+.letrablanca {
+    color: white;
+    font-size: 50px;
+}
 h5 {color: blue;
+   font-size: 50px;
+
+}
+.titulo2 {color: chocolate;
+background-color: black;
+font-size: 100px;
+}
+
+.cuadrado2 {
+    width: 20%;
+    height: 40%;
+    background-color: cadetblue;
+}
+.guitarra {
+    width: 700px;
+    height: 900px;
+    background-image: url("./Imagenes/Elgato-Wave-Panels-paneles-acusticos-para-streamers-y-creadores-de-contenido_2.jpg"),  url(./Imagenes/Elgato-Wave-Panels-paneles-acusticos-para-streamers-y-creadores-de-contenido_2.jpg);
+background-size: contain;
+background-repeat: no-repeat;
 
 }
