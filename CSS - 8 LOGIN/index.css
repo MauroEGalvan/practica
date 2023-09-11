@@ -1,0 +1,22 @@
+body {
+    background-color: rgb(91, 15, 243);
+}
+.contenedor { 
+    width: 60%;
+    height: 30%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 0%;
+position: relative;
+    
+}
+.recuadro-login {
+    width: 60%;
+    height: 50%;
+    background-color: rgb(255, 77, 0);
+    margin-left: 21%;
+    border-radius: 20px;
+    margin-top: 0px;
+   
+}
